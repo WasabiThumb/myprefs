@@ -1,0 +1,6 @@
+@import url('https://pgsil.github.io/awfullydark2/styles.css');
+@import url('https://pgsil.github.io/awfullydark2/optionals/blkSplr.css');
+@import url('https://pgsil.github.io/awfullydark2/optionals/animRatings.css');
+.user-gold .dropdown::after { content: "[G]"; color: lightgrey; margin-left: 0.3em; }
+.user-moderator .dropdown::after { content: "[M]"; color: lightgrey; margin-left: 0.3em; }
+.user-admin .dropdown::after { content: "[A]"; color: lightgrey; margin-left: 0.3em; }
